@@ -3,7 +3,7 @@
 Полезные плагины, скрипты b т.д.
 
 ##Список плагинов:
-* [header-sticky](/header-sticky)
-* [scroll-to](/scroll-to)
+1. [header-sticky](/header-sticky)
+2. [scroll-to](/scroll-to)
 
 
