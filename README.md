@@ -1,6 +1,6 @@
 #Hoppas: JavaScript plugins
 
-Полезные плагины, скрипты b т.д.
+Полезные плагины, скрипты и т.д.
 
 ##Список плагинов:
 1. [header-sticky](/header-sticky)
