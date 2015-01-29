@@ -1,8 +1,5 @@
-#Hoppas: JavaScript plugins
+#Hoppas: JavaScript and jQuery plugins
 
-Полезные плагины, скрипты и т.д.
-
-##Список плагинов:
 1. [header-sticky](/header-sticky)
 2. [scroll-to](/scroll-to)
 
